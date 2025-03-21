@@ -1,4 +1,4 @@
-# VSDSquadron FM Research Internship by Ojasvi Shah
+# VSDSquadron FM Research Internship by Devansh
 The **VSDSquadron FPGA Mini (FM)** is a compact and low-cost development board designed for FPGA prototyping and embedded system projects. This board provides a seamless hardware development experience with an integrated programmer, versatile GPIO access, and onboard memory, making it ideal for students, hobbyists, and developers exploring FPGA-based designs. ([source](https://www.vlsisystemdesign.com/vsdsquadronfm/))
 
 # Task 1: Understanding and Implementing the Verilog Code on FM
